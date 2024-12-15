@@ -23,7 +23,6 @@ scvelo_project/
 │  ├─ analysis.ipynb          # Main Jupyter notebook with code steps and simulations
 │  └─ data/
 │     └─ endocrinogenesis_day15.h5ad  # Example dataset
-├─ data/                      # (Optional) Additional data directory if needed
 ├─ docs/
 │  └─ CASIA_report(Ding Ding).pdf     # The detailed report
 └─ README.md                  # This file
